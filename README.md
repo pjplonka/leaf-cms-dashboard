@@ -73,3 +73,8 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+TODO:
+- dockerize app
+- create makefile with command for build and run (at least dev for now)
+- Update readme with custom content
